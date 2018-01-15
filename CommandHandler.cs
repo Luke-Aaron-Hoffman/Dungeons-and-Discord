@@ -88,7 +88,7 @@ namespace DungeonsAndDiscord
             int selected = 0;
             String send = "";
             User u = helper.deserialize(reaction.User.Value.Username.ToString() + "#" + reaction.User.Value.Discriminator.ToString());
-            if (!(message.Author.Id.ToString() == "387292286196776962"))
+            if (!(message.Author.Id.ToString() == "387292286196776962"))  //This is the bot's username, hardcoded. For hosting it with other bots, this would be different
                 return;
             if (reaction.UserId.ToString() == "387292286196776962")
                 return;
