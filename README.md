@@ -6,7 +6,7 @@ Dungeons and Discord is a bot for the online chat platform Discord that allows u
 
 ## How does it work?
 
-If you would like to see a working demo of this bot, you may [invite the bot](https://discordapp.com/oauth2/authorize?client_id=402305155959226380&scope=bot&permissions=1) to a Discord server to try it out. I always recommend setting up a new server for the sole purpose of testing new bots for safety reasons. To host the bot, download [this file](https://drive.google.com/file/d/1O5zTwCSP4bkPgCB8DVtMhgfCVnLAbkve/view?usp=sharing), extract the files, and run the DungeonsAndDiscord.exe file.
+If you would like to see a working demo of this bot, you may [invite the bot](https://discordapp.com/oauth2/authorize?client_id=402305155959226380&scope=bot&permissions=1) to a Discord server to try it out. I always recommend setting up a new server for the sole purpose of testing new bots for safety reasons. To host the bot, download [this file](https://drive.google.com/file/d/1O5zTwCSP4bkPgCB8DVtMhgfCVnLAbkve/view?usp=sharing), extract the files, and run the DungeonsAndDiscord.exe file. When trying the bot out, type /help to learn how to use the bot.
 
 ## Notes:
 
